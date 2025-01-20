@@ -233,12 +233,14 @@ li>a {
     font-family: "Inter", serif;
     font-size: 1.5rem;
     color:rgba(0, 0, 0, 0.87) ;
+    margin-bottom: 5px;
   }
   .image-card .rating{
     font-size: .90rem;
   }
-  .image-card p>span i{
+  .image-card p>span, p> i{
     color: orange;
+    margin: 8px 0;
   }
   .image-card .description{
     max-width: 196px;
