@@ -327,3 +327,28 @@ li>a {
     gap: 25px;
   }
  }
+
+ /* footer */
+ .footer{
+  background-color: #0A0826;
+  width: 100%;
+ }
+ .footer-text{
+  color: #FFFFFF;
+  text-align: center;
+  padding: 50px 0;
+ }
+ .footer-text h6{
+  font-size: 1.5rem;
+  font-weight: bold;
+ }
+ .footer-text p{
+  font-size: .9rem;
+  margin: 3px;
+ }
+ .footer-icon{
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+ }
+ 
